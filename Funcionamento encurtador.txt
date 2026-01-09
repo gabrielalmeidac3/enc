@@ -1,0 +1,7 @@
+Funcionamento do Encurtador:
+
+Site: https://gabrielalmeidac3.github.io/encurtador/
+Carrega links.json.
+Extrai caminho da URL (ex: /encurtador/key).
+Redireciona para URL em json[key].
+Usa JS em index/404.html.
