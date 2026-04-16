@@ -1,6 +1,6 @@
 Funcionamento do Encurtador:
 
-Site: https://gabrielalmeidac3.github.io/encurtador/
+Site: https://gabrielalmeidac3.github.io/enc/
 Carrega links.json.
 Extrai caminho da URL (ex: /encurtador/key).
 Redireciona para URL em json[key].
