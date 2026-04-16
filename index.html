@@ -5,7 +5,7 @@
     <title>Redirecionando...</title>
     <script>
       async function redirect() {
-        const path = window.location.pathname.replace(/^\/encurtador\//, '');
+        const path = window.location.pathname.replace(/^\/enc\//, '');
         const response = await fetch('links.json');
         const links = await response.json();
         const url = links[path];
